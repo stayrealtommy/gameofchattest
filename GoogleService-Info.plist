@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>219441639254-lca2see6n107errehomkpvca3oieorb2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.219441639254-lca2see6n107errehomkpvca3oieorb2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuzYr5Bt6Qphkq1-JUjCmlin0Xuod35-E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219441639254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.EasyEngineering.gameofchat</string>
+	<key>PROJECT_ID</key>
+	<string>tommychat-88fef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tommychat-88fef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219441639254:ios:babd05dc13a5eb7e</string>
+	<key>DATABASE_URL</key>
+	<string>https://tommychat-88fef.firebaseio.com</string>
+</dict>
+</plist>
